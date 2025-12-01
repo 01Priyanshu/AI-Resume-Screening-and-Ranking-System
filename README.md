@@ -7,7 +7,7 @@
   
  
 </div>
-
+   
 ## 🚀 Features    
 
 - 🤖 **AI-Powered Analysis** - Automatically analyze resumes against job requirements
