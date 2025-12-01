@@ -52,7 +52,7 @@
 3. Set up environment variables:
    Create a `.env.local` file in the root directory:
    ```env
-   NEXT_PUBLIC_APP_URL=http://localhost:3000
+   NEXT_PUBLIC_APP_URL=http://localhost:3000   
    OPENAI_API_KEY=your_openai_api_key
    ```
 4. Start the development server:
