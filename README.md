@@ -101,7 +101,7 @@ ai-resume-screening/
 └── ...                   # Config files
 ```
 
-## 🔧 Configuration
+## 🔧 Configuration   
 
 ### Tailwind Configuration
 Modify the theme in `tailwind.config.js`.
