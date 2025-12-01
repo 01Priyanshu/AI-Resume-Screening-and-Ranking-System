@@ -23,7 +23,7 @@
 
 ## 🛠️ Technologies Used
 
-- **Frontend**: Next.js, React, TypeScript, Tailwind CSS
+- **Frontend**: Next.js, React, TypeScript, Tailwind CSS  
 - **UI Components**: shadcn/ui
 - **Animations**: Framer Motion
 - **AI Integration**: OpenAI GPT-4
