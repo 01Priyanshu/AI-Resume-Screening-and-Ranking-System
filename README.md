@@ -16,7 +16,7 @@
 - 📱 **Responsive Design** - Works seamlessly on desktop, tablet, and mobile devices
 - 🎯 **Skills Matching** - Identify matched and missing skills  
 - 📄 **Resume Management** - Upload and manage multiple resumes
-
+   
 <div align="center">
  
 </div>
