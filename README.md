@@ -28,7 +28,7 @@
 - **Animations**: Framer Motion
 - **AI Integration**: OpenAI GPT-4
 - **File Processing**: PDF.js, mammoth.js
-
+             
 ## 🚀 Getting Started
 
 ### Prerequisites
