@@ -6,7 +6,7 @@
   <p>Find your perfect candidates with AI-powered resume screening and ranking</p>
   
  
-</div>    
+</div>      
    
 ## 🚀 Features       
 
