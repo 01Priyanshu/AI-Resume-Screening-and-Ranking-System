@@ -1,6 +1,6 @@
 # AI Resume Screening   
   
-<div align="center">  
+<div align="center">    
       
   <h1>AI Resume Screening</h1>
   <p>Find your perfect candidates with AI-powered resume screening and ranking</p>
