@@ -61,7 +61,7 @@
    # or
    yarn dev
    ```
-5. Open [http://localhost:3000](http://localhost:3000) in your browser.
+5. Open [http://localhost:3000](http://localhost:3000) in your browser.   
 
 ## 📖 How to Use
 
