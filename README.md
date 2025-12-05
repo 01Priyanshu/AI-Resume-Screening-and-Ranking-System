@@ -12,7 +12,7 @@
 
 - 🤖 **AI-Powered Analysis** - Automatically analyze resumes against job requirements                       
 - 📊 **Smart Ranking** - Rank candidates based on skills, experience, and education match
-- 🔍 **Detailed Insights** - Get AI-generated candidate insights     
+- 🔍 **Detailed Insights** - Get AI-generated candidate insights      
 - 📱 **Responsive Design** - Works seamlessly on desktop, tablet, and mobile devices
 - 🎯 **Skills Matching** - Identify matched and missing skills  
 - 📄 **Resume Management** - Upload and manage multiple resumes 
