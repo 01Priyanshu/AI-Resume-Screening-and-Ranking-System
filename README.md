@@ -9,7 +9,7 @@
 </div>      
    
 ## 🚀 Features          
-
+  
 - 🤖 **AI-Powered Analysis** - Automatically analyze resumes against job requirements                       
 - 📊 **Smart Ranking** - Rank candidates based on skills, experience, and education match  
 - 🔍 **Detailed Insights** - Get AI-generated candidate insights         
