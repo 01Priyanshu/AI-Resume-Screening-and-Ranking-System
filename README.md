@@ -27,7 +27,7 @@
 - **UI Components**: shadcn/ui
 - **Animations**: Framer Motion
 - **AI Integration**: OpenAI GPT-4
-- **File Processing**: PDF.js, mammoth.js          
+- **File Processing**: PDF.js, mammoth.js            
                
 ## 🚀 Getting Started
 
