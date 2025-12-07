@@ -33,7 +33,7 @@
 
 ### Prerequisites
 
-- Node.js 18.0 or later
+- Node.js 18.0 or later  
 - npm or yarn
 
 ### Installation
