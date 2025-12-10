@@ -72,7 +72,7 @@
 
 ### 2. Upload Resumes
 - Drag and drop resumes or use the file browser
-- Supports PDF and DOCX formats
+- Supports PDF and DOCX formats  
 
 ### 3. Review Results
 - Candidates ranked by match score
