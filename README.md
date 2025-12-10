@@ -70,7 +70,7 @@
 - Add required skills
 - Set minimum experience and education level
 
-### 2. Upload Resumes
+### 2. Upload Resumes  
 - Drag and drop resumes or use the file browser
 - Supports PDF and DOCX formats  
 
