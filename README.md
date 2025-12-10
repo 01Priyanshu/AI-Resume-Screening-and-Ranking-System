@@ -43,7 +43,7 @@
    git clone https://github.com/yourusername/ai-resume-screening.git
    cd ai-resume-screening
    ```
-2. Install dependencies:
+2. Install dependencies:  
    ```bash
    npm install
    # or
